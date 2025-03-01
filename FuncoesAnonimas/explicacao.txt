@@ -1,0 +1,5 @@
+() => {}
+
+1 - Os parenteses que é por onde a função recebe os argumentos (assim como nas funções tradicionais);
+2 - "seta" => - responsável pelo nome "Arrow"
+3 - E as chaves: o bloco de código que representa o corpo da função. 
